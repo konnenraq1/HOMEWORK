@@ -1,0 +1,19 @@
+.column{
+    float: left;
+    width: 50%;
+}
+
+img{
+    float: left;
+}
+div.column1{
+    clear: right;
+}
+
+img.dec{
+    float: right;
+}
+
+img.dec11{
+    float: right;
+}

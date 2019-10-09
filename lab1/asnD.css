@@ -1,0 +1,20 @@
+input[type=text]{
+    font-style: oblique;
+    font-size: medium;
+}
+input[type=password]{
+    font-size: small;
+}
+input[required]{
+    background: brown;
+    color: aqua;
+}
+select{
+    background: blueviolet;
+}
+textarea{
+    font-size: large;
+}
+input{
+    color: azure;
+}

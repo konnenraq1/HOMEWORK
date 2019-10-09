@@ -1,0 +1,14 @@
+p, h1 {
+    font-style: oblique;
+    font-size: medium;
+}
+th, table ,td {
+    border-style: solid;
+    border-color: black;
+}
+a{
+ text-decoration: none;
+}
+ul{
+list-style-type: disc;
+}
